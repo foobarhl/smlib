@@ -1,3 +1,8 @@
+
+This is Foo's fork of smlib
+
+
+
 **This project is not actively maintained anymore, please fork this**
 
 # smlib
